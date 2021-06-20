@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="computation/src"/>
+	<classpathentry kind="src" path="computation/test"/>
+	<classpathentry kind="src" path="date/src"/>
+	<classpathentry kind="src" path="date/test"/>
+	<classpathentry kind="lib" path="__MACOSX/computation/lib/._jacocoagent.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/computation/lib/._jacococli.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/date/lib/._jacocoagent.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/date/lib/._jacococli.jar"/>
+	<classpathentry kind="lib" path="computation/lib/jacocoagent.jar"/>
+	<classpathentry kind="lib" path="computation/lib/jacococli.jar"/>
+	<classpathentry kind="lib" path="computation/lib/junit-platform-console-standalone-1.7.1.jar"/>
+	<classpathentry kind="lib" path="date/lib/jacocoagent.jar"/>
+	<classpathentry kind="lib" path="date/lib/jacococli.jar"/>
+	<classpathentry kind="lib" path="date/lib/junit-platform-console-standalone-1.7.1.jar"/>
+	<classpathentry kind="output" path="computation/bin"/>
+</classpath>
