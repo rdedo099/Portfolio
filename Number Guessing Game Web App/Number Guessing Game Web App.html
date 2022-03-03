@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+do{
+	var g, ans, p;
+	p = true;
+	ans = Math.floor(1+Math.random()*1000);
+	do{
+		g = (window.prompt("Guess a number between 1 and 1000")).trim();
+		if (g < ans){
+			window.alert("The Guess is too low");
+		} else if (g > ans){
+			window.alert("The Guess is too high");
+		} else {
+			window.alert("The Guess is correct, Congratulations!");
+		}
+	} while ( g!=ans || g === '' );
+} while (p == true);
+</script>
+</body>
+</hmtl>

@@ -1,3 +1,13 @@
+<div align="center">
+<a href="https://github.com/rdedo099/Portfolio/tree/main/QA%20Jacoco%20Code%20Coverage%20and%20Refactoring">
+</a>
+<h2>Object Oriented Python Canvas</h3>
+<h4>Object Oriented Python Canvas - Implementation of a Rectangle on a Canvas</h4>
+</div>
+<div>
+<p>
+<br/>
+
 *NOTE* Not all code present is original, and was provided to run code coverage tests. Further tests were added to the original code to increase the coverage. Tests were only added to date/test/DateTest.java. After which the code in date/src/Date.java was refactored in efforts to clean it up.
 
 Steps to run code coverage with jacoco
