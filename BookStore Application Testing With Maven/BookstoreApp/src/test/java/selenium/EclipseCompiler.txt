@@ -1,0 +1,4 @@
+15 Jul 2021 1:22:13 GMT: Log 'EclipseCompiler.txt' opened: 15 Jul 2021 1:22:13 GMT with name C:\Users\Riley\Documents\GitHub\Seg3103_playground\Lab06\BookstoreApp\src\test\java\selenium\EclipseCompiler.txt
+15 Jul 2021 2:17:22 GMT: Log 'EclipseCompiler.txt' opened: 15 Jul 2021 2:17:22 GMT with name C:\Users\Riley\Documents\GitHub\Seg3103_playground\Lab06\BookstoreApp\src\test\java\selenium\EclipseCompiler.txt
+18 Jul 2021 19:47:49 GMT: Log 'EclipseCompiler.txt' opened: 18 Jul 2021 19:47:49 GMT with name C:\Users\Riley\Documents\GitHub\Seg3103_playground\Assignment3\BookstoreApp\src\test\java\selenium\EclipseCompiler.txt
+19 Jul 2021 19:24:51 GMT: Log 'EclipseCompiler.txt' opened: 19 Jul 2021 19:24:51 GMT with name C:\Users\Riley\Documents\GitHub\Seg3103_playground\Assignment3\BookstoreApp\src\test\java\selenium\EclipseCompiler.txt

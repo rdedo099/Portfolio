@@ -1,0 +1,18 @@
+3 Mar 2022 23:01:14 GMT: Log 'EclipseCompiler.txt' opened: 3 Mar 2022 23:01:14 GMT with name C:\Users\Riley\Documents\GitHub\Portfolio\Basic Java Linear Regression Machine Learning\Q1-1\EclipseCompiler.txt
+3 Mar 2022 23:01:43 GMT: diagnostics = javax.tools.DiagnosticCollector@54a164eb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@73d5a45c
+fileObjects = [C:\Users\Riley\Documents\GitHub\Portfolio\Basic Java Linear Regression Machine Learning\Q1-1\Assignment.java]
+3 Mar 2022 23:01:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@26af8fb4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Riley\Documents\GitHub\Portfolio\Basic Java Linear Regression Machine Learning\Q1-1;C:\Users\Riley\Downloads\drjava-beta-20160913-225446.exe]
+3 Mar 2022 23:01:44 GMT: Compiler call returned
+3 Mar 2022 23:01:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29879705
+3 Mar 2022 23:01:44 GMT:  Kind = WARNING
+3 Mar 2022 23:01:44 GMT: Name = C:\Users\Riley\Documents\GitHub\Portfolio\Basic Java Linear Regression Machine Learning\Q1-1\LinearRegression.java LineNo = 8 ColNo = 8 Msg = 'The import java.util.ArrayList is never used'
+3 Mar 2022 23:01:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ff8b7c2
+3 Mar 2022 23:01:44 GMT:  Kind = WARNING
+3 Mar 2022 23:01:44 GMT: Name = C:\Users\Riley\Documents\GitHub\Portfolio\Basic Java Linear Regression Machine Learning\Q1-1\LinearRegression.java LineNo = 9 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+3 Mar 2022 23:01:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a523487
+3 Mar 2022 23:01:44 GMT:  Kind = WARNING
+3 Mar 2022 23:01:44 GMT: Name = C:\Users\Riley\Documents\GitHub\Portfolio\Basic Java Linear Regression Machine Learning\Q1-1\Display.java LineNo = 28 ColNo = 14 Msg = 'The serializable class Display does not declare a static final serialVersionUID field of type long'
+3 Mar 2022 23:01:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@103bde4d
+3 Mar 2022 23:01:44 GMT:  Kind = WARNING
+3 Mar 2022 23:01:44 GMT: Name = C:\Users\Riley\Documents\GitHub\Portfolio\Basic Java Linear Regression Machine Learning\Q1-1\Display.java LineNo = 38 ColNo = 20 Msg = 'The value of the field Display.panel is not used'

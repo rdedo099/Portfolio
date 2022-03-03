@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://github.com/rdedo099/Portfolio/tree/main/QA%20Jacoco%20Code%20Coverage%20and%20Refactoring">
 </a>
-<h2>Object Oriented Python Canvas</h3>
-<h4>Object Oriented Python Canvas - Implementation of a Rectangle on a Canvas</h4>
+<h2>QA Jacoco Code Coverage and Refactoring</h3>
+<h4>Jacoco Code Coverage and Refactoring - Running Jacoco Code Coverage on Provided Code and Refactoring to Achieve Improved Coverage</h4>
 </div>
 <div>
 <p>
