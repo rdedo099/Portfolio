@@ -1,6 +1,5 @@
 <div align="center">
 <a href="https://github.com/rdedo099/Portfolio/tree/main/Hotel%20Web%20Application">
-<img src="images/cluster.svg" alt="Logo" width="120" height="100">
 </a>
 <h2>Hotel Web Application</h3>
 <h4>Hotel Web Application - Implementation of a Hotel Web Application Using Apache Tomcat Servlets</h4>
